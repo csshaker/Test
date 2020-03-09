@@ -6,3 +6,7 @@ def new_function():
 
 def func_master():
 	print("master")
+
+def function_office_master():
+	print("office master")
+
