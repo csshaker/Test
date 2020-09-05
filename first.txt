@@ -3,3 +3,5 @@ def test():
 
 def test1():
 	print "test1"
+
+def funct_b1():
