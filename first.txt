@@ -1,5 +1,5 @@
-def hello():
-	print "hello"
+def test():
+	print "test"
 
-def hello_world():
-	print "hello world"
+def test1():
+	print "test1"
